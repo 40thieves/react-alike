@@ -1,0 +1,26 @@
+{
+  "name": "react-alike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "type-check": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/40thieves/react-alike.git"
+  },
+  "keywords": [],
+  "author": "Alasdair Smith <ali@alasdairsmith.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/40thieves/react-alike/issues"
+  },
+  "homepage": "https://github.com/40thieves/react-alike#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.0.0-beta.40",
+    "@babel/preset-typescript": "^7.0.0-beta.40",
+    "typescript": "^2.7.2"
+  }
+}
